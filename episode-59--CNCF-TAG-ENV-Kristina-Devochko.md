@@ -29,7 +29,7 @@ Join TWiGS host Chris Adams in talking to Kristina Devochko, tech lead of the En
 - [TAG ENV Slack Channel](https://tr.ee/-cFaJgMJRl) [31:31]
 - [GitHub - cncf/tag-env-sustainability: 🌳🌍♻️ TAG Environmental Sustainability](https://github.com/cncf/tag-env-sustainability) [31:44]
 - [Green Software Champions](https://speakers.greensoftware.foundation/) | Speakers [35:38]
-
+- [Platypus - power side channel attack for RAPL](https://platypusattack.com/) [23:15]
 
 **If you enjoyed this episode then please either:**
 - Follow, rate, and review on [Apple Podcasts](https://podcasts.apple.com/us/podcast/environment-variables/id1618265745)
